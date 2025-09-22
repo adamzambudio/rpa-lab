@@ -1,0 +1,12 @@
+2025-09-22 09:40:06,128 - INFO - Iniciando procesamiento de ficheros
+2025-09-22 09:40:06,135 - INFO - Procesando TXT: data/ejemplo.txt
+2025-09-22 09:40:06,137 - INFO - Reporte guardado: data/reporte.txt
+2025-09-22 09:40:06,137 - INFO - Procesando CSV: data/ejemplo.csv
+2025-09-22 09:40:06,138 - INFO - Archivo CSV guardado: data/resultado.csv
+2025-09-22 09:40:06,138 - INFO - Procesamiento completado
+2025-09-22 11:05:42,681 - INFO - Iniciando procesamiento de ficheros
+2025-09-22 11:05:42,687 - INFO - Procesando TXT: data/ejemplo.txt
+2025-09-22 11:05:42,689 - INFO - Reporte guardado: data/reporte.txt
+2025-09-22 11:05:42,689 - INFO - Procesando CSV: data/ejemplo.csv
+2025-09-22 11:05:42,691 - INFO - Archivo CSV guardado: data/resultado.csv
+2025-09-22 11:05:42,691 - INFO - Procesamiento completado
