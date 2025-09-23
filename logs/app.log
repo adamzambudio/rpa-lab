@@ -10,3 +10,13 @@
 2025-09-22 11:05:42,689 - INFO - Procesando CSV: data/ejemplo.csv
 2025-09-22 11:05:42,691 - INFO - Archivo CSV guardado: data/resultado.csv
 2025-09-22 11:05:42,691 - INFO - Procesamiento completado
+2025-09-23 10:03:37,727 - INFO - Leyendo CSV: data\ventas.csv
+2025-09-23 10:03:37,745 - INFO - Validando tipos de columnas numéricas
+2025-09-23 10:03:37,746 - INFO - Separando filas válidas e inválidas
+2025-09-23 10:05:07,032 - INFO - Leyendo CSV: data\ventas.csv
+2025-09-23 10:05:07,037 - INFO - Validando tipos de columnas numéricas
+2025-09-23 10:05:07,037 - INFO - Separando filas válidas e inválidas
+2025-09-23 10:05:07,039 - INFO - Guardando filas rechazadas en: data\rechazadas.csv
+2025-09-23 10:05:07,043 - INFO - Generando resumen de ventas
+2025-09-23 10:05:07,049 - INFO - Exportando informe a Excel: data\informe.xlsx
+2025-09-23 10:05:07,258 - INFO - Transformación completada con éxito ✅
