@@ -3,7 +3,6 @@ certifi==2025.8.3
 cffi==2.0.0
 charset-normalizer==3.4.3
 et_xmlfile==2.0.0
-h11==0.16.0
 idna==3.10
 Jinja2==3.1.6
 MarkupSafe==3.0.2
